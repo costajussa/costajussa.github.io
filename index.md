@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+# Marta R. Costa-jussà
 
-You can use the [editor on GitHub](https://github.com/costajussa/costajussa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Marta R. Costa-jussà is an ERC Researcher at Universitat Politècnica de Catalunya (UPC, Barcelona), member of the TALP and IDEAI, co-leading the MT-UPC Group. She received her PhD from the UPC in 2008. Her research experience is mainly in Machine Translation. She has worked at LIMSI-CNRS (Paris), Barcelona Media Innovation Center, Universidade de São Paulo, Institute for Infocomm Research (Singapore), Instituto Politécnico Nacional (Mexico) and the University of Edinburgh. She has participated in 18 European (including a MarieCurie Action) and Spanish national projects. She has organised 12 workshops in top venues and published more than 100 papers. She has been part of the Editorial Board of the Computer Speech and Language journal. She regularly cooperates with companies as a scientific consultant. Currently, she is leading the ERC Starting Grant LUNAR Project and co-leading the Spanish Project of AdaVoice. Recently, she has received two Google Faculty Research Awards (2018 and 2019).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/costajussa/costajussa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
